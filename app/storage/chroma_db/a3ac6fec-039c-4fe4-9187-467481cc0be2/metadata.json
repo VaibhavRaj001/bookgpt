@@ -1,0 +1,7 @@
+{
+  "book_id": "a3ac6fec-039c-4fe4-9187-467481cc0be2",
+  "title": "book123.pdf",
+  "source_file": "storage/uploads\\a3ac6fec-039c-4fe4-9187-467481cc0be2--book123.pdf",
+  "num_chunks": 748,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2"
+}

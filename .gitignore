@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Local storage
+storage/uploads/
+storage/chroma_db/
+*.db
+*.sqlite
+*.sqlite3
+
+# Firebase & API secrets
+serviceAccountKey.json
+*.pem
+
+# Cache
+.cache/
+*.log
+

@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+chromadb
+sentence-transformers
+requests
+python-multipart
+langchain
+langchain-community
+pypdf
+langchain-google-genai
