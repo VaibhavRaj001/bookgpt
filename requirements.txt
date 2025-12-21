@@ -1,10 +1,25 @@
 fastapi
 uvicorn[standard]
+
+# Document loading / PDF
+pypdf
+python-multipart
+
+# Embeddings + vector store
 chromadb
 sentence-transformers
-requests
-python-multipart
+
+# LangChain core packages
 langchain
 langchain-community
-pypdf
+langchain-core
+langchain-classic
+
+# Google Gemini LLM for LangChain
 langchain-google-genai
+google-generativeai
+
+# Utilities
+requests
+typing_extensions
+tqdm
